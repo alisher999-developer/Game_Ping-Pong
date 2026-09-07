@@ -1,4 +1,4 @@
-# 780 Game Ping-Pong for 2 Player (Version 1) in Python
+# Game Ping-Pong
 
 import pygame
 import sys
