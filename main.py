@@ -16,7 +16,7 @@ BLACK = (255, 255, 255)
 
 # Create the game window
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Ping Pong")
+pygame.display.set_caption("Ping-Pong")
 
 # Create the paddles and ball
 player1 = pygame.Rect(50, HEIGHT // 2 - PADDLE_HEIGHT // 2, PADDLE_WIDTH, PADDLE_HEIGHT)
